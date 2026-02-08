@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 14px/18px "Consolas", monospace;
+}
+
+main {
+  width: 800px;
+  margin: 60px auto;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
